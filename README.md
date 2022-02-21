@@ -18,6 +18,10 @@
   ## Walkthrough
   
 
+
+https://user-images.githubusercontent.com/91762149/154883649-4771e921-0332-4c81-a220-dc28c79fb91f.mp4
+
+
   
   ## Usage
   Open the app online and press the plus button in the top right to begin adding a note and click the save icon to add the note to the sidebar
